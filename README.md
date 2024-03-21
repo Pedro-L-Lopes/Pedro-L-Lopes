@@ -1,7 +1,2 @@
-- ▽ Estudante de Sistemas de Informação
-- Ψ Atualmente focado no desenvolvimento web com C# .NET, Node, React
-
-
- 
-
- 
+- Estudante de Sistemas de Informação
+- Atualmente focado no desenvolvimento web com C# .NET, React e NodeJs
