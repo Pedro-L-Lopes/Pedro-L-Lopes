@@ -1,6 +1,5 @@
 ## Sobre mim
 
-- 🔹 Apaixonado por desenvolvimento web e sempre buscando evoluir.
 - 🎓 Estudando **Sistemas de Informação** no 8º período.
 - 💼 Estagiando com foco em **desenvolvimento web**, utilizando **PHP**, **Typescript**, **Angular**, **Docker**, **Drupal** e **Twig**.
 - 🌱 Aprimorando conhecimentos em **.NET**, **React/NextJS** e **automações**, além de aprofundar boas práticas de desenvolvimento **full stack** com foco em:
