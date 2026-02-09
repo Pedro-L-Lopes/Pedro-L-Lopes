@@ -1,12 +1,8 @@
-## Sobre mim
-
 Desenvolvedor Full Stack, formado em Sistemas de Informação, com foco em aplicações web escaláveis e soluções SaaS.
 Experiência com .NET, React/Next.js, Angular e PHP, Laravel, atuando no desenvolvimento de APIs, interfaces modernas e integrações externas.
 
 Foco em arquitetura limpa, qualidade de código e automações para otimizar processos.
 Construindo produtos próprios.
-
-## Skills
 
 ### Linguagens & Tecnologias
 
