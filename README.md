@@ -8,7 +8,7 @@ Construindo produtos próprios.
 
 ## Skills
 
-### 🧠 Linguagens & Tecnologias
+### Linguagens & Tecnologias
 
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=239120)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -17,7 +17,7 @@ Construindo produtos próprios.
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
 
-### 🧰 Frameworks, Bibliotecas & Ferramentas Web
+### Frameworks, Bibliotecas & Ferramentas Web
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
@@ -26,25 +26,18 @@ Construindo produtos próprios.
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
 
-### 🛢️ Banco de Dados
+### Banco de Dados
 
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-### ⚙️ DevOps & Infraestrutura
+### DevOps & Infraestrutura
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops&logoColor=0078D7)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-### 🔧 Utilitários e API
-
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=jsonwebtokens)
-![FluentValidation](https://img.shields.io/badge/-FluentValidation-333333?style=flat&logo=.net&logoColor=white)
 
 <br/>
 
