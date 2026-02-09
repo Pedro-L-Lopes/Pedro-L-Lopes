@@ -1,18 +1,10 @@
 ## Sobre mim
 
-- 🎓 Estudando **Sistemas de Informação** no 8º período.
-- 💼 Estagiando com foco em **desenvolvimento web**, utilizando **PHP**, **Typescript**, **Angular**, **Docker**, **Drupal** e **Twig**.
-- 🌱 Aprimorando conhecimentos em **.NET**, **React/NextJS** e **automações**, além de aprofundar boas práticas de desenvolvimento **full stack** com foco em:
+Desenvolvedor Full Stack, formado em Sistemas de Informação, com foco em aplicações web escaláveis e soluções SaaS.
+Experiência com .NET, React/Next.js, Angular e PHP, Laravel, atuando no desenvolvimento de APIs, interfaces modernas e integrações externas.
 
-  - 🧩 **Domain-Driven Design (DDD)**  
-  - 💡 Princípios **SOLID** e **Clean Code**  
-  - 🧪 **Testes de Unidade e Integração**  
-  - 🔍 Qualidade de código com **SonarCloud** e **SonarQube**  
-  - 🚀 **CI/CD**, **Pipelines**, e **Azure DevOps**  
-  - 🐳 **Docker**  
-  - 🧠 Integração com com ferramentas externas    
-  - 🔁 Boas práticas com **Git** e **GitFlow**  
-  - 📅 Metodologias ágeis com **Scrum**
+Foco em arquitetura limpa, qualidade de código e automações para otimizar processos.
+Construindo produtos próprios.
 
 ## Skills
 
