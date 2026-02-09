@@ -39,25 +39,12 @@ Construindo produtos próprios.
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-### 🧪 Testes & Qualidade
-
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![SonarCloud](https://img.shields.io/badge/-SonarCloud-333333?style=flat&logo=sonarcloud)
-![SonarQube](https://img.shields.io/badge/-SonarQube-333333?style=flat&logo=sonarqube)
-
 ### 🔧 Utilitários e API
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=jsonwebtokens)
 ![FluentValidation](https://img.shields.io/badge/-FluentValidation-333333?style=flat&logo=.net&logoColor=white)
-
-### 🛠️ Ferramentas de Desenvolvimento
-
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visualstudio&logoColor=5C2D91)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 <br/>
 
